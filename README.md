@@ -28,4 +28,4 @@ Step 4: Then i can use **[ postman app ]** and **[ Mockapi.io ]** to create the 
 
 step 4: Then open terminal -> npm install, npm install react-router-dom and npm install axios next npm run dev to create web page for the result.
 
-Step 5: Then we can see the react axios task for github and netlify.com
+Step 5: Then we can see the react axios task for github[https://github.com/Gsara3497/reactday10.git] and netlify.com[https://reactaxiosday10.netlify.app/]
