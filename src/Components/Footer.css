@@ -1,0 +1,18 @@
+.footer{
+    position: relative !important;
+    left: 0 !important; 
+  bottom: 0 !important;
+  text-align: center;
+  width: 100%;
+  
+}
+.nav-link{
+  color: rgb(179, 235, 27) !important;
+  font-weight: 600 !important;
+ 
+}
+.footer-text{
+  color: rgb(188, 240, 46);
+  font-size: 22px;
+  font-weight: 600;
+}
